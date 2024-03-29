@@ -1,5 +1,6 @@
-### Olá, sou Bruno, desenvolverdor web, entusiasta de API's Rest full,meu principal projeto hoje é a Open Adm, uma plataforma de gerenciamento de e-commerce
-###
+### Olá, sou Bruno, desenvolverdor web, entusiasta de API's Rest full,meu principal projeto hoje é a Open Adm, uma plataforma de gerenciamento de e-commerce.
+### API: https://github.com/Brunobento1990/OpenAdm
+### Front: https://github.com/Brunobento1990/OpenAdm.UI
 
 <!--
 **Brunobento1990/Brunobento1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
