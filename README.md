@@ -2,17 +2,16 @@
 ### API: https://github.com/Brunobento1990/OpenAdm
 ### Front: https://github.com/Brunobento1990/OpenAdm.UI
 
-<!--
-**Brunobento1990/Brunobento1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Minhas redes 🤝
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/brunobento1990">
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/brunobento1990" alt="GitHub badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/brunobritodev">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunogonçalvesbento/" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/brunobento1990">
+    <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/brunobritodev/" alt="LinkedIn" />
+  </a>
+</p>
